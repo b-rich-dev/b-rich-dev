@@ -1,14 +1,28 @@
+<div align="center">
+  <img src="assets/header.svg" alt="Header" width="100%" />
+</div>
 
-<h1 align="center">👋 Hi , I'm Eugen Birich</h1>
-<h3 align="center">I am currently training to become a full-stack software developer at the Developer Academy.</h3>
+<p align="left">Hi , I'm Eugen Birich 👋 <br>
+I am currently training to become a full-stack software developer at the Developer Academy.</p>
 
-- 🌱 I’m currently learning **Angular & TypeScript**
-
-- 📫 How to reach me **info@birich.tech**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="left">Languages and Tools:</h1>
+<p align="left"> 
+<h3>Frontend</h3>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="assets/skill_icons/html.png" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="assets/skill_icons/CSS.png" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="assets/skill_icons/js.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="assets/skill_icons/ts.png" alt="typescript" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="assets/skill_icons/Angular_new.png" alt="angular" width="40" height="40"/> </a>  
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="assets/skill_icons/firebase.png" alt="firebase" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+<h3>Dev-Tools</h3>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/skill_icons/git.png" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="assets/skill_icons/Figma.png" alt="figma" width="24" height="40"/> </a>
+</p>
+
+<h1 align="left">Contact:</h1>
+<p align="left">
+<a href="https://linkedin.com/in/eugen-birich" target="_blank" rel="noreferrer"> <img src="assets/linkedin.png" alt="linkedin" width="38" height="38"/> </a> or <b>info@birich.tech</b>
+</p>
