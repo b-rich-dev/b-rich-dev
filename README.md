@@ -13,8 +13,7 @@ I am currently training to become a full-stack software developer at the Develop
 
 <p align="left">
 <h3>Dev-Tools</h3>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/skill_icons/git.png" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="assets/skill_icons/Figma.png" alt="figma" width="24" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/skill_icons/git.png" alt="git" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="assets/skill_icons/Figma.png" alt="figma" width="24" height="40"/></a>
 </p>
 
 <h1 align="left">Contact:</h1>
