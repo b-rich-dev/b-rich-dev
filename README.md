@@ -18,4 +18,4 @@ I am currently training to become a full-stack software developer at the Develop
 
 <h1 align="left">Contact:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/eugen-birich" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="assets/linkedin.png" alt="linkedin" width="38" height="38"/> </a> or <b>info@birich.tech</b></p>
+<a href="www.linkedin.com/in/eugen-birich-8586aa389" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="assets/linkedin.png" alt="linkedin" width="38" height="38"/> </a> or <b>info@birich.tech</b></p>
