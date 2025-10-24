@@ -3,7 +3,8 @@
 </div>
 
 <p align="left">Hi , I'm Eugen Birich 👋 <br>
-I am currently training to become a full-stack software developer at the Developer Academy.</p>
+Future front-end developer specializing in JavaScript, TypeScript, and Angular. After 20 years of experience in steel construction and robotics, now working in IT—currently completing advanced training at the <a href="https://developerakademie.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> Developer Akademie GmbH</a>, soon to receive a Chamber of Industry and Commerce (IHK) certificate. Open to exciting projects and networking opportunities.
+</p>
 
 <h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
@@ -18,4 +19,4 @@ I am currently training to become a full-stack software developer at the Develop
 
 <h1 align="left">Contact:</h1>
 <p align="left">
-<a href="www.linkedin.com/in/eugen-birich-8586aa389" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="assets/linkedin.png" alt="linkedin" width="38" height="38"/> </a> or <b>info@birich.tech</b></p>
+<a href="https://www.linkedin.com/in/eugen-birich-8586aa389" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="assets/linkedin.png" alt="linkedin" width="38" height="38"/> </a> or <b>info@birich.tech</b></p>
