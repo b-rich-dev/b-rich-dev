@@ -2,8 +2,14 @@
   <img src="assets/header.svg" alt="Header" width="100%" />
 </div>
 
-<p align="left">Hi , I'm Eugen Birich 👋 <br>
-Front-end developer specializing in JavaScript, TypeScript, and Angular. After 20 years of experience in steel construction and robotics, now working in IT—currently completing advanced training at the <a href="https://developerakademie.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> Developer Akademie GmbH</a>, soon to receive a Chamber of Industry and Commerce (IHK) certificate. Open to exciting projects and networking opportunities.
+<p align="left">Hi , I'm Eugen Birich, 👋 <br>
+a certified frontend developer with in-depth knowledge of JavaScript, TypeScript, and Angular.
+
+During my advanced training at the <a href="https://developerakademie.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> Developer Akademie GmbH</a>, I was able to deepen my structured development skills through numerous practical projects, consistently prioritizing user needs and working effectively and agilely in a team.
+
+I'm always open to new learning opportunities – currently, I'm expanding my Python knowledge to further develop my backend skills.
+
+I'm eager to participate in exciting projects and explore new networking opportunities.
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
