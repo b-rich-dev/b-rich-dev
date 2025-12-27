@@ -15,17 +15,12 @@ I'm eager to participate in exciting projects and explore new networking opportu
 <h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
 <h3>Frontend</h3>
-<img src="assets/skill_icons/html.png" alt="html5" width="40" height="40"/>
-<img src="assets/skill_icons/CSS.png" alt="css3" width="40" height="40"/>
-<img src="assets/skill_icons/js.png" alt="javascript" width="40" height="40"/>
-<img src="assets/skill_icons/ts.png" alt="typescript" width="40" height="40"/>
-<img src="assets/skill_icons/Angular_new.png" alt="angular" width="40" height="40"/>
-<img src="assets/skill_icons/firebase.png" alt="firebase" width="40" height="40"/>
+<img src="assets/skill_icons/html.png" alt="html5" width="40" height="40"/> <img src="assets/skill_icons/CSS.png" alt="css3" width="40" height="40"/> <img src="assets/skill_icons/js.png" alt="javascript" width="40" height="40"/> <img src="assets/skill_icons/ts.png" alt="typescript" width="40" height="40"/> <img src="assets/skill_icons/Angular_new.png" alt="angular" width="40" height="40"/> <img src="assets/skill_icons/firebase.png" alt="firebase" width="40" height="40"/>
 </p>
 
 <p align="left">
 <h3>Dev-Tools</h3>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="assets/skill_icons/git.png" alt="git" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="assets/skill_icons/Figma.png" alt="figma" width="24" height="40"/></a>
+<img src="assets/skill_icons/git.png" alt="git" width="40" height="40"/><img src="assets/skill_icons/Figma.png" alt="figma" width="24" height="40"/>
 </p>
 
 <h1 align="left">Contact:</h1>
